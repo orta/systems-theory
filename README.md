@@ -1,4 +1,4 @@
-### React Native in Typescript
+### React Native in TypeScript
 
 This repo aims to take a vanilla JS React Native app, and transform it into a working, awesome, TypeScript one.
 
@@ -17,7 +17,7 @@ Aims:
 
 ### Why TypeScript?
 
-There'll probably be a longer write up on the Artsy blog once we've got this stuff in production. However, the TLDR is that TypeScript provides more mature tooling, with the accessability of being built in JavaScript.
+There'll probably be a longer write up on the Artsy blog once we've got this stuff in production. However, the TLDR is that TypeScript provides more mature tooling, with the accessibility of being built in JavaScript.
 
 ### References 
 
