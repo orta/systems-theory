@@ -12,3 +12,6 @@ Aims:
 - [ ] Source Mapping works
 - [ ] Testing / Watcher mode in Jest is 👍
 
+### Why TypeScript?
+
+There'll probably be a longer write up on the Artsy blog once we've got this stuff in production. However, the TLDR is that TypeScript provides more mature tooling, with the accessability of being built in JavaScript.
