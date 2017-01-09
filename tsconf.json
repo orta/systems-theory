@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    // This goes to babel ideally, so give
+    // it as high quality code as possible
+    "target": "es2015",
+    "module": "es2015",
+    // We'll be needing this
+    "jsx": "react",
+    // This one we may not need hopefully.
+    "outDir": "build",
+    // Could maybe let the root index.*.js not be TS
+    "rootDir": "lib",
+    // Act like babel
+    "allowSyntheticDefaultImports": true,
+    // Be a bit more strict
+    "noImplicitAny": true,
+    "strictNullChecks" : true,
+    "preserveConstEnums": true,
+    // General settings
+    "allowJs": true,
+    "sourceMap": true
+  },
+  "filesGlob": [
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "index.android.js",
+    "index.ios.js",
+    "build",
+    "node_modules"
+  ],
+  "compileOnSave": false
+}

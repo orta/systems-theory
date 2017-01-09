@@ -18,6 +18,14 @@ There'll probably be a longer write up on the Artsy blog once we've got this stu
 
 ### References 
 
+Code: 
+
+* [mrpatiwi/ReactNativeTS](https://github.com/mrpatiwi/ReactNativeTS)
+* [philikon/ReactNativify](https://github.com/philikon/ReactNativify)
+
+Text:
+
+* [Microsoft/TypeScript/#11441](https://github.com/Microsoft/TypeScript/issues/11441)
 * [reactnative.tools](http://www.reactnative.tools/tutorials/2016/09/20/reactnative-ts/)
 * [react-weekly](https://medium.com/react-weekly/react-native-and-typescript-ad57b7413ead#.vumtp0ua5)
-* [raygun.com/](https://raygun.com/blog/2016/07/react-native-typescript/)
+* [raygun.com](https://raygun.com/blog/2016/07/react-native-typescript/)
