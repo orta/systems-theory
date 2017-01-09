@@ -4,13 +4,16 @@ This repo aims to take a vanilla JS React Native app, and transform it into a wo
 
 It is a sibling project to [relational-theory](https://github.com/alloy/relational-theory) which strives to build a similar system but from a web perspective.
 
+We build specifically for working with VS Code.
+
 Aims:
 
 - [ ] Components all have defined State / Props
 - [ ] Hot Module Reloading on Save
+- [ ] Source Mapping in debugging works
 - [ ] Babel Transformations work for Relay
-- [ ] Source Mapping works
 - [ ] Testing / Watcher mode in Jest is 👍
+- [ ] Source Mapping works in Tests
 
 ### Why TypeScript?
 
