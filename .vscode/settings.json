@@ -1,0 +1,4 @@
+{
+  "eslint.autoFixOnSave": false,
+  "tslint.autoFixOnSave": false
+}
